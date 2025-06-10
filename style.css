@@ -520,6 +520,12 @@ overflow: hidden;
     text-transform:uppercase ;
     font-weight: 400;
   } */
+ .skill-main .skill-left h3{
+    color: #fdfdfd;
+  }
+  .skill-right h3{
+    color: #fdfdfd;
+  }
   .main-text span {
     color:#fdfdfd;
     font-weight: 600;
